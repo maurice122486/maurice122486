@@ -1,16 +1,16 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22maurice122486%22%2C%22name%22%3A%22Maurice%20Antoine%20Carter%22%2C%22email%22%3A%22maurice1224%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%7B%22name%22%3A%22Responsible%20AI%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1BWm5FrWQN9lynH_S_-aBFxh8kb3r7Wms%2Fview%22%2C%22status%22%3A%22complete%22%7D%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22%22%2C%22name%22%3A%22%22%2C%22email%22%3A%22%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
-<img src="https://github.com/maurice122486.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
-# Hi there, I'm Maurice Antoine Carter
 
-**Maurice Antoine Carter**
+# Hi there, I'm Your Name
+
+**Your Name**
 
 *ITSA Student*
 
-[![GITHUB](https://img.shields.io/badge/GITHUB-%40maurice122486-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maurice122486) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maurice1224@gmail.com)
+
 
 </div>
 
@@ -40,9 +40,7 @@
 <details>
 <summary><strong>Course 2: Computer & Security Essentials</strong></summary>
 
-| Lab / Project | Description | Status | Link |
-|---|---|---|---|
-| Responsible AI | — | ✅ Complete | [Open](https://drive.google.com/file/d/1BWm5FrWQN9lynH_S_-aBFxh8kb3r7Wms/view) |
+*No labs added yet.*
 
 </details>
 
